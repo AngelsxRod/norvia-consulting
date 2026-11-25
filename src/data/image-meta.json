@@ -1,0 +1,640 @@
+{
+  "city-grid": {
+    "src": "/images/city-grid.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Vista aérea nocturna de una ciudad cuyas avenidas iluminadas forman una retícula",
+    "credit": {
+      "author": "Shio Yang",
+      "profileUrl": "https://unsplash.com/@shioyang",
+      "sourceUrl": "https://unsplash.com/photos/b6i9pe16pAg"
+    }
+  },
+  "office-glass": {
+    "src": "/images/office-glass.webp",
+    "width": 1920,
+    "height": 1282,
+    "alt": "Sala de reuniones con paredes de vidrio y luz natural en una oficina contemporánea",
+    "credit": {
+      "author": "Nastuh Abootalebi",
+      "profileUrl": "https://unsplash.com/@sunday_digital",
+      "sourceUrl": "https://unsplash.com/photos/eHD8Y1Znfpk"
+    }
+  },
+  "office-atrium": {
+    "src": "/images/office-atrium.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Atrio blanco de un edificio corporativo con estructura de vidrio y acero",
+    "credit": {
+      "author": "LYCS Architecture",
+      "profileUrl": "https://unsplash.com/@lycs",
+      "sourceUrl": "https://unsplash.com/photos/aKij95Mmus8"
+    }
+  },
+  "team-review": {
+    "src": "/images/team-review.webp",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Equipo de consultores revisando una solución frente a un monitor",
+    "credit": {
+      "author": "Vitaly Gariev",
+      "profileUrl": "https://unsplash.com/@silverkblack",
+      "sourceUrl": "https://unsplash.com/photos/UikYLDQj9_I"
+    }
+  },
+  "team-table": {
+    "src": "/images/team-table.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Cuatro profesionales trabajan juntos sobre documentos en una mesa",
+    "credit": {
+      "author": "Andreea Avramescu",
+      "profileUrl": "https://unsplash.com/@minakko",
+      "sourceUrl": "https://unsplash.com/photos/wR56AUlEsE4"
+    }
+  },
+  "whiteboard-sketch": {
+    "src": "/images/whiteboard-sketch.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Dos personas bosquejan un flujo en una pizarra durante una sesión de trabajo",
+    "credit": {
+      "author": "Kaleidico",
+      "profileUrl": "https://unsplash.com/@kaleidico",
+      "sourceUrl": "https://unsplash.com/photos/7lryofJ0H9s"
+    }
+  },
+  "whiteboard-roadmap": {
+    "src": "/images/whiteboard-roadmap.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Mano que señala una hoja de ruta de producto dibujada en una pizarra blanca",
+    "credit": {
+      "author": "Slidebean",
+      "profileUrl": "https://unsplash.com/@slidebean",
+      "sourceUrl": "https://unsplash.com/photos/iW9oP7Ljkbg"
+    }
+  },
+  "team-meeting": {
+    "src": "/images/team-meeting.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Equipo reunido alrededor de una mesa con portátiles en una conversación abierta",
+    "credit": {
+      "author": "Mapbox",
+      "profileUrl": "https://unsplash.com/@mapbox",
+      "sourceUrl": "https://unsplash.com/photos/ZT5v0puBjZI"
+    }
+  },
+  "team-laptops": {
+    "src": "/images/team-laptops.webp",
+    "width": 1920,
+    "height": 1243,
+    "alt": "Grupo de trabajo concentrado en una pantalla en una sala de reuniones",
+    "credit": {
+      "author": "Cherrydeck",
+      "profileUrl": "https://unsplash.com/@cherrydeck",
+      "sourceUrl": "https://unsplash.com/photos/rMILC1PIwM0"
+    }
+  },
+  "team-cowork": {
+    "src": "/images/team-cowork.webp",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Equipo multidisciplinario conversa alrededor de un portátil en un espacio abierto",
+    "credit": {
+      "author": "Vitaly Gariev",
+      "profileUrl": "https://unsplash.com/@silverkblack",
+      "sourceUrl": "https://unsplash.com/photos/yd_RKGH_RH4"
+    }
+  },
+  "dc-aisle": {
+    "src": "/images/dc-aisle.webp",
+    "width": 1920,
+    "height": 1104,
+    "alt": "Pasillo largo entre armarios de servidores en un centro de datos",
+    "credit": {
+      "author": "İsmail Enes Ayhan",
+      "profileUrl": "https://unsplash.com/@ismailenesayhan",
+      "sourceUrl": "https://unsplash.com/photos/lVZjvw-u9V8"
+    }
+  },
+  "dc-corridor": {
+    "src": "/images/dc-corridor.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Corredor oscuro de un centro de datos con racks iluminados a ambos lados",
+    "credit": {
+      "author": "Paul Hanaoka",
+      "profileUrl": "https://unsplash.com/@plhnk",
+      "sourceUrl": "https://unsplash.com/photos/s0XabTAKvak"
+    }
+  },
+  "dc-hall": {
+    "src": "/images/dc-hall.webp",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Sala técnica amplia con racks de servidores y suelo técnico blanco",
+    "credit": {
+      "author": "Taylor Vick",
+      "profileUrl": "https://unsplash.com/@tvick",
+      "sourceUrl": "https://unsplash.com/photos/aWslrFhs1w4"
+    }
+  },
+  "dc-aerial": {
+    "src": "/images/dc-aerial.webp",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Vista aérea de un edificio industrial rodeado de campos verdes",
+    "credit": {
+      "author": "Geoffrey Moffett",
+      "profileUrl": "https://unsplash.com/@geoffreymoffett",
+      "sourceUrl": "https://unsplash.com/photos/N9pLLb_M8DQ"
+    }
+  },
+  "dc-rack": {
+    "src": "/images/dc-rack.webp",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Detalle de servidores en rack con luces de estado verdes",
+    "credit": {
+      "author": "Domaintechnik",
+      "profileUrl": "https://unsplash.com/@fslfsl",
+      "sourceUrl": "https://unsplash.com/photos/VHmBX7FnXw0"
+    }
+  },
+  "code-laptop": {
+    "src": "/images/code-laptop.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Editor de código con un proyecto abierto en un portátil",
+    "credit": {
+      "author": "Juanjo Jaramillo",
+      "profileUrl": "https://unsplash.com/@juanjodev02",
+      "sourceUrl": "https://unsplash.com/photos/mZnx9429i94"
+    }
+  },
+  "code-screen": {
+    "src": "/images/code-screen.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Portátil con código fuente resaltado sobre un escritorio en penumbra",
+    "credit": {
+      "author": "Arnold Francisca",
+      "profileUrl": "https://unsplash.com/@clark_fransa",
+      "sourceUrl": "https://unsplash.com/photos/f77Bh3inUpE"
+    }
+  },
+  "code-desk": {
+    "src": "/images/code-desk.webp",
+    "width": 1920,
+    "height": 1282,
+    "alt": "Puesto de desarrollo con varios monitores mostrando terminal y código",
+    "credit": {
+      "author": "Christina @ wocintechchat.com",
+      "profileUrl": "https://unsplash.com/@wocintechchat",
+      "sourceUrl": "https://unsplash.com/photos/6Dv3pe-JnSg"
+    }
+  },
+  "engineer-monitor": {
+    "src": "/images/engineer-monitor.webp",
+    "width": 1920,
+    "height": 1281,
+    "alt": "Ingeniera revisa código en un monitor de escritorio",
+    "credit": {
+      "author": "ThisisEngineering",
+      "profileUrl": "https://unsplash.com/@thisisengineering",
+      "sourceUrl": "https://unsplash.com/photos/iQqRM0XJvn8"
+    }
+  },
+  "analytics-dashboard": {
+    "src": "/images/analytics-dashboard.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Panel analítico con histogramas y series temporales en un portátil",
+    "credit": {
+      "author": "Luke Chesser",
+      "profileUrl": "https://unsplash.com/@lukechesser",
+      "sourceUrl": "https://unsplash.com/photos/JKUTrJ4vK00"
+    }
+  },
+  "analytics-panels": {
+    "src": "/images/analytics-panels.webp",
+    "width": 1920,
+    "height": 1382,
+    "alt": "Pantalla con indicadores y gráficos de rendimiento en tonos oscuros",
+    "credit": {
+      "author": "Stephen Dawson",
+      "profileUrl": "https://unsplash.com/@dawson2406",
+      "sourceUrl": "https://unsplash.com/photos/qwtCeJ5cLYs"
+    }
+  },
+  "analytics-map": {
+    "src": "/images/analytics-map.webp",
+    "width": 1920,
+    "height": 1536,
+    "alt": "Tablero de datos con un mapa y cifras agregadas en una pantalla",
+    "credit": {
+      "author": "Clay Banks",
+      "profileUrl": "https://unsplash.com/@claybanks",
+      "sourceUrl": "https://unsplash.com/photos/_Jb1TF3kvsA"
+    }
+  },
+  "analytics-laptop": {
+    "src": "/images/analytics-laptop.webp",
+    "width": 1920,
+    "height": 1368,
+    "alt": "Portátil con un tablero de métricas y gráficos de área",
+    "credit": {
+      "author": "Carlos Muza",
+      "profileUrl": "https://unsplash.com/@kmuza",
+      "sourceUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+    }
+  },
+  "security-circuit": {
+    "src": "/images/security-circuit.webp",
+    "width": 1920,
+    "height": 1281,
+    "alt": "Circuito iluminado sobre una superficie de vidrio en penumbra",
+    "credit": {
+      "author": "Adi Goldstein",
+      "profileUrl": "https://unsplash.com/@adigold1",
+      "sourceUrl": "https://unsplash.com/photos/EUsVwEOsblE"
+    }
+  },
+  "security-rings": {
+    "src": "/images/security-rings.webp",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Anillos de luz turquesa en una composición abstracta",
+    "credit": {
+      "author": "Zoha Gohar",
+      "profileUrl": "https://unsplash.com/@zoeey97",
+      "sourceUrl": "https://unsplash.com/photos/WWlDskG5mY8"
+    }
+  },
+  "security-operator": {
+    "src": "/images/security-operator.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Analista trabaja frente a varias pantallas en una sala oscura",
+    "credit": {
+      "author": "Jefferson Santos",
+      "profileUrl": "https://unsplash.com/@jefflssantos",
+      "sourceUrl": "https://unsplash.com/photos/9SoCnyQmkzI"
+    }
+  },
+  "network-fiber-panel": {
+    "src": "/images/network-fiber-panel.webp",
+    "width": 1920,
+    "height": 1285,
+    "alt": "Panel de conexiones de fibra óptica con cables amarillos y conectores verdes",
+    "credit": {
+      "author": "Kirill Sh",
+      "profileUrl": "https://unsplash.com/@kirill2020",
+      "sourceUrl": "https://unsplash.com/photos/eVWWr6nmDf8"
+    }
+  },
+  "network-fiber": {
+    "src": "/images/network-fiber.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Detalle de conectores de fibra óptica en un distribuidor de red",
+    "credit": {
+      "author": "Ronald Crow",
+      "profileUrl": "https://unsplash.com/@ronaldacrow",
+      "sourceUrl": "https://unsplash.com/photos/8oR7XykOjk4"
+    }
+  },
+  "network-cables": {
+    "src": "/images/network-cables.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Cables de red azules ordenados en la parte trasera de un rack",
+    "credit": {
+      "author": "Scott Rodgerson",
+      "profileUrl": "https://unsplash.com/@scottrodgerson",
+      "sourceUrl": "https://unsplash.com/photos/PSpf_XgOM5w"
+    }
+  },
+  "logistics-racks": {
+    "src": "/images/logistics-racks.webp",
+    "width": 1920,
+    "height": 668,
+    "alt": "Centro de distribución con estanterías altas y pasillos amplios",
+    "credit": {
+      "author": "Jacques Dillies",
+      "profileUrl": "https://unsplash.com/@jacques_dillies",
+      "sourceUrl": "https://unsplash.com/photos/jcav1COVvOc"
+    }
+  },
+  "logistics-aisle": {
+    "src": "/images/logistics-aisle.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Pasillo de almacén con estanterías llenas de cajas a ambos lados",
+    "credit": {
+      "author": "Lance Chang",
+      "profileUrl": "https://unsplash.com/@carmendis",
+      "sourceUrl": "https://unsplash.com/photos/h3pVxOIpnzk"
+    }
+  },
+  "logistics-aerial": {
+    "src": "/images/logistics-aerial.webp",
+    "width": 1920,
+    "height": 1279,
+    "alt": "Vista aérea de un gran centro logístico y su playa de maniobras",
+    "credit": {
+      "author": "Point3D Commercial Imaging Ltd.",
+      "profileUrl": "https://unsplash.com/@3dottawa",
+      "sourceUrl": "https://unsplash.com/photos/eBLqAXNLVp0"
+    }
+  },
+  "logistics-team": {
+    "src": "/images/logistics-team.webp",
+    "width": 1920,
+    "height": 1278,
+    "alt": "Dos trabajadoras conversan en un pasillo de almacén con tablet en mano",
+    "credit": {
+      "author": "Centre for Ageing Better",
+      "profileUrl": "https://unsplash.com/@ageing_better",
+      "sourceUrl": "https://unsplash.com/photos/ZlOlRnWk8zU"
+    }
+  },
+  "factory-line": {
+    "src": "/images/factory-line.webp",
+    "width": 1920,
+    "height": 1204,
+    "alt": "Línea de ensamblaje automatizada con brazos robóticos",
+    "credit": {
+      "author": "Homa Appliances",
+      "profileUrl": "https://unsplash.com/@homaappliances",
+      "sourceUrl": "https://unsplash.com/photos/sz1CHL7Pky0"
+    }
+  },
+  "factory-robot": {
+    "src": "/images/factory-robot.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Brazo robótico industrial blanco en una celda de producción",
+    "credit": {
+      "author": "patricio davalos",
+      "profileUrl": "https://unsplash.com/@patriciodavalos",
+      "sourceUrl": "https://unsplash.com/photos/LSiJEJmfuaU"
+    }
+  },
+  "factory-automation": {
+    "src": "/images/factory-automation.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Equipo de automatización neumática en una línea de pruebas",
+    "credit": {
+      "author": "ThisisEngineering",
+      "profileUrl": "https://unsplash.com/@thisisengineering",
+      "sourceUrl": "https://unsplash.com/photos/nyAzMQ6Ejgs"
+    }
+  },
+  "ai-robot-arm": {
+    "src": "/images/ai-robot-arm.webp",
+    "width": 1920,
+    "height": 1272,
+    "alt": "Brazo robótico blanco en un entorno de laboratorio luminoso",
+    "credit": {
+      "author": "ZHENYU LUO",
+      "profileUrl": "https://unsplash.com/@mrnuclear",
+      "sourceUrl": "https://unsplash.com/photos/kE0JmtbvXxM"
+    }
+  },
+  "health-tablet": {
+    "src": "/images/health-tablet.webp",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Profesional de la salud revisa imágenes diagnósticas en una tablet",
+    "credit": {
+      "author": "Vitaly Gariev",
+      "profileUrl": "https://unsplash.com/@silverkblack",
+      "sourceUrl": "https://unsplash.com/photos/Wz4Mx3JbnzE"
+    }
+  },
+  "health-ward": {
+    "src": "/images/health-ward.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Habitación hospitalaria con cama y equipamiento de monitoreo",
+    "credit": {
+      "author": "Irshad Pathan",
+      "profileUrl": "https://unsplash.com/@alrighthospital",
+      "sourceUrl": "https://unsplash.com/photos/3EIraOmufG4"
+    }
+  },
+  "finance-escalators": {
+    "src": "/images/finance-escalators.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Escaleras mecánicas bajo una bóveda de vidrio en un distrito financiero",
+    "credit": {
+      "author": "Patrick Robert Doyle",
+      "profileUrl": "https://unsplash.com/@teapowered",
+      "sourceUrl": "https://unsplash.com/photos/-az9Mp5WAeE"
+    }
+  },
+  "finance-towers": {
+    "src": "/images/finance-towers.webp",
+    "width": 1920,
+    "height": 1282,
+    "alt": "Torres de oficinas vistas desde abajo contra el cielo",
+    "credit": {
+      "author": "LARAM",
+      "profileUrl": "https://unsplash.com/@lukearam",
+      "sourceUrl": "https://unsplash.com/photos/Bu_jTIe9g-k"
+    }
+  },
+  "finance-skyward": {
+    "src": "/images/finance-skyward.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Rascacielos que convergen hacia un cielo nublado",
+    "credit": {
+      "author": "Matthew Henry",
+      "profileUrl": "https://unsplash.com/@matthewhenry",
+      "sourceUrl": "https://unsplash.com/photos/VviFtDJakYk"
+    }
+  },
+  "retail-store": {
+    "src": "/images/retail-store.webp",
+    "width": 1920,
+    "height": 1320,
+    "alt": "Tienda luminosa con mobiliario blanco y productos ordenados",
+    "credit": {
+      "author": "Zooey Li",
+      "profileUrl": "https://unsplash.com/@zooeyli",
+      "sourceUrl": "https://unsplash.com/photos/lkDZJL5psKU"
+    }
+  },
+  "retail-hall": {
+    "src": "/images/retail-hall.webp",
+    "width": 1920,
+    "height": 1284,
+    "alt": "Espacio comercial con columnas metálicas y lucernario circular",
+    "credit": {
+      "author": "Declan Sun",
+      "profileUrl": "https://unsplash.com/@declansun",
+      "sourceUrl": "https://unsplash.com/photos/Hafhe2KkG-E"
+    }
+  },
+  "energy-plant": {
+    "src": "/images/energy-plant.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Aerogenerador junto a un campo solar y una planta de generación",
+    "credit": {
+      "author": "Arno Senoner",
+      "profileUrl": "https://unsplash.com/@arnosenoner",
+      "sourceUrl": "https://unsplash.com/photos/6lOxktnqo04"
+    }
+  },
+  "energy-wind": {
+    "src": "/images/energy-wind.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Aerogenerador sobre campos agrícolas al atardecer",
+    "credit": {
+      "author": "Matthias Marx",
+      "profileUrl": "https://unsplash.com/@marxmatthias",
+      "sourceUrl": "https://unsplash.com/photos/Z1-Hmrh8Oj4"
+    }
+  },
+  "telecom-antenna": {
+    "src": "/images/telecom-antenna.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Antenas de telecomunicaciones sobre una torre metálica",
+    "credit": {
+      "author": "Tony Stoddard",
+      "profileUrl": "https://unsplash.com/@tonystoddard",
+      "sourceUrl": "https://unsplash.com/photos/DgZxBnZeQo8"
+    }
+  },
+  "telecom-tower": {
+    "src": "/images/telecom-tower.webp",
+    "width": 1920,
+    "height": 1436,
+    "alt": "Torre de telefonía con antenas contra un cielo azul intenso",
+    "credit": {
+      "author": "Dena Skulskaya",
+      "profileUrl": "https://unsplash.com/@dena_skulskaya",
+      "sourceUrl": "https://unsplash.com/photos/_-PY-2WQl10"
+    }
+  },
+  "telecom-dusk": {
+    "src": "/images/telecom-dusk.webp",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Siluetas de torres de transmisión al atardecer",
+    "credit": {
+      "author": "Mario Caruso",
+      "profileUrl": "https://unsplash.com/@giggiulena",
+      "sourceUrl": "https://unsplash.com/photos/0C9VmZUqcT8"
+    }
+  },
+  "education-laptop": {
+    "src": "/images/education-laptop.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Dos estudiantes trabajan juntas frente a un portátil",
+    "credit": {
+      "author": "Brooke Cagle",
+      "profileUrl": "https://unsplash.com/@brookecagle",
+      "sourceUrl": "https://unsplash.com/photos/tLG2hcpITZE"
+    }
+  },
+  "education-class": {
+    "src": "/images/education-class.webp",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Grupo de estudiantes reunidos alrededor de un portátil en un aula",
+    "credit": {
+      "author": "Vitaly Gariev",
+      "profileUrl": "https://unsplash.com/@silverkblack",
+      "sourceUrl": "https://unsplash.com/photos/8gAbl776pc0"
+    }
+  },
+  "ai-red-arm": {
+    "src": "/images/ai-red-arm.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Brazo robótico rojo sobre fondo negro",
+    "credit": {
+      "author": "Mathew Schwartz",
+      "profileUrl": "https://unsplash.com/@cadop",
+      "sourceUrl": "https://unsplash.com/photos/zIIXVa5BwvM"
+    }
+  },
+  "ai-hand": {
+    "src": "/images/ai-hand.webp",
+    "width": 1920,
+    "height": 1382,
+    "alt": "Mano robótica blanca en primer plano",
+    "credit": {
+      "author": "Franck V.",
+      "profileUrl": "https://unsplash.com/@possessedphotography",
+      "sourceUrl": "https://unsplash.com/photos/jIBMSMs4_kA"
+    }
+  },
+  "ai-lab-arm": {
+    "src": "/images/ai-lab-arm.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Brazo robótico colaborativo manipulando piezas sobre una mesa",
+    "credit": {
+      "author": "Maria Teneva",
+      "profileUrl": "https://unsplash.com/@miteneva",
+      "sourceUrl": "https://unsplash.com/photos/xk9htrFBeAw"
+    }
+  },
+  "city-night": {
+    "src": "/images/city-night.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Rascacielos iluminados de una ciudad vista desde lo alto por la noche",
+    "credit": {
+      "author": "Polina Kuzovkova",
+      "profileUrl": "https://unsplash.com/@p_kuzovkova",
+      "sourceUrl": "https://unsplash.com/photos/zd8v_Ig3ndg"
+    }
+  },
+  "city-lights": {
+    "src": "/images/city-lights.webp",
+    "width": 1920,
+    "height": 1221,
+    "alt": "Vista aérea nocturna de un centro urbano con calles iluminadas",
+    "credit": {
+      "author": "Graham Holtshausen",
+      "profileUrl": "https://unsplash.com/@freedomstudios",
+      "sourceUrl": "https://unsplash.com/photos/HN5Vf-aCD34"
+    }
+  },
+  "meeting-notes": {
+    "src": "/images/meeting-notes.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": "Manos de un equipo tomando notas en una mesa de reunión",
+    "credit": {
+      "author": "Dylan Gillis",
+      "profileUrl": "https://unsplash.com/@mainermedia",
+      "sourceUrl": "https://unsplash.com/photos/KdeqA3aTnBY"
+    }
+  },
+  "work-plan": {
+    "src": "/images/work-plan.webp",
+    "width": 1920,
+    "height": 1281,
+    "alt": "Persona que planifica con papel y bolígrafo junto a un portátil",
+    "credit": {
+      "author": "Scott Graham",
+      "profileUrl": "https://unsplash.com/@amstram",
+      "sourceUrl": "https://unsplash.com/photos/5fNmWej4tAA"
+    }
+  }
+}
