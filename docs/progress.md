@@ -16,7 +16,7 @@ Sitio corporativo multipágina (exportación estática) para Norvia, consultora 
 | 6 — Sistema de diseño           | ✅ Completa  |
 | 7 — Desarrollo frontend         | ✅ Completa  |
 | 8 — Optimización y QA           | ✅ Completa  |
-| 9 — GitHub                      | ⏳ Pendiente |
+| 9 — GitHub                      | ✅ Completa  |
 | 10 — Despliegue (Vercel)        | ⏳ Pendiente |
 | 11 — Dominio (Cloudflare)       | ⏳ Pendiente |
 | 12 — Portafolio (kaled.dev)     | ⏳ Pendiente |
@@ -45,3 +45,12 @@ Sitio corporativo multipágina (exportación estática) para Norvia, consultora 
 - QA en Chrome: mega menú (ratón, teclado, Escape), filtros/búsqueda/URL/estado vacío, formulario (errores, foco en el primer error, resultado demostrativo), gráficas Recharts. Capturas headless en 360, 390, 768, 1024 y 1440 px.
 - Correcciones: nombres de servicio en minúsculas, foco del formulario en el último campo, navegación partida a 1024 px, contraste de pestañas inactivas, foto decorativa del hero oculta en móvil (era el elemento LCP), OG/apple-icon como PNG estáticos.
 - Lighthouse local (servidor Python sin compresión ni caché): escritorio 95–97 / 97–100 / 100 / 100; móvil 72–73 en rendimiento por falta de compresión y LCP de la foto decorativa (corregido). Se vuelve a medir en producción.
+
+### Fase 9
+
+- 16 commits Conventional Commits publicados en `origin/main` sin force push ni reescritura. Revisión previa: sin secretos, `.env*`, `node_modules`, `.next`, `out` ni `.vercel` en el índice; archivo más grande 860 KB.
+
+### Fase 10 (en curso)
+
+- Proyecto Vercel `norvia-consulting` creado y conectado a `AngelsxRod/norvia-consulting` (rama de producción `main`, preset Next.js, `pnpm install --frozen-lockfile`, `pnpm build`, Node 26.x, plan Hobby).
+- Variable `NEXT_PUBLIC_SITE_URL=https://norvia.kaled.dev` (production, preview).
