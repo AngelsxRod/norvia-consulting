@@ -1,0 +1,466 @@
+[
+  {
+    "key": "city-grid",
+    "unsplashId": "b6i9pe16pAg",
+    "photo": "1620662892011-f5c2d523fae2",
+    "author": "Shio Yang",
+    "username": "shioyang",
+    "alt": "Vista aérea nocturna de una ciudad cuyas avenidas iluminadas forman una retícula"
+  },
+  {
+    "key": "office-glass",
+    "unsplashId": "eHD8Y1Znfpk",
+    "photo": "1497366811353-6870744d04b2",
+    "author": "Nastuh Abootalebi",
+    "username": "sunday_digital",
+    "alt": "Sala de reuniones con paredes de vidrio y luz natural en una oficina contemporánea"
+  },
+  {
+    "key": "office-atrium",
+    "unsplashId": "aKij95Mmus8",
+    "photo": "1531972111231-7482a960e109",
+    "author": "LYCS Architecture",
+    "username": "lycs",
+    "alt": "Atrio blanco de un edificio corporativo con estructura de vidrio y acero"
+  },
+  {
+    "key": "team-review",
+    "unsplashId": "UikYLDQj9_I",
+    "photo": "1758873268745-dd2cf0d677b5",
+    "author": "Vitaly Gariev",
+    "username": "silverkblack",
+    "alt": "Equipo de consultores revisando una solución frente a un monitor"
+  },
+  {
+    "key": "team-table",
+    "unsplashId": "wR56AUlEsE4",
+    "photo": "1630487656049-6db93a53a7e9",
+    "author": "Andreea Avramescu",
+    "username": "minakko",
+    "alt": "Cuatro profesionales trabajan juntos sobre documentos en una mesa"
+  },
+  {
+    "key": "whiteboard-sketch",
+    "unsplashId": "7lryofJ0H9s",
+    "photo": "1532619187608-e5375cab36aa",
+    "author": "Kaleidico",
+    "username": "kaleidico",
+    "alt": "Dos personas bosquejan un flujo en una pizarra durante una sesión de trabajo"
+  },
+  {
+    "key": "whiteboard-roadmap",
+    "unsplashId": "iW9oP7Ljkbg",
+    "photo": "1590103514966-5e2a11c13e21",
+    "author": "Slidebean",
+    "username": "slidebean",
+    "alt": "Mano que señala una hoja de ruta de producto dibujada en una pizarra blanca"
+  },
+  {
+    "key": "team-meeting",
+    "unsplashId": "ZT5v0puBjZI",
+    "photo": "1622675363311-3e1904dc1885",
+    "author": "Mapbox",
+    "username": "mapbox",
+    "alt": "Equipo reunido alrededor de una mesa con portátiles en una conversación abierta"
+  },
+  {
+    "key": "team-laptops",
+    "unsplashId": "rMILC1PIwM0",
+    "photo": "1603201667141-5a2d4c673378",
+    "author": "Cherrydeck",
+    "username": "cherrydeck",
+    "alt": "Grupo de trabajo concentrado en una pantalla en una sala de reuniones"
+  },
+  {
+    "key": "team-cowork",
+    "unsplashId": "yd_RKGH_RH4",
+    "photo": "1758691737124-05c5bffe46f0",
+    "author": "Vitaly Gariev",
+    "username": "silverkblack",
+    "alt": "Equipo multidisciplinario conversa alrededor de un portátil en un espacio abierto"
+  },
+  {
+    "key": "dc-aisle",
+    "unsplashId": "lVZjvw-u9V8",
+    "photo": "1584169417032-d34e8d805e8b",
+    "author": "İsmail Enes Ayhan",
+    "username": "ismailenesayhan",
+    "alt": "Pasillo largo entre armarios de servidores en un centro de datos"
+  },
+  {
+    "key": "dc-corridor",
+    "unsplashId": "s0XabTAKvak",
+    "photo": "1580106815433-a5b1d1d53d85",
+    "author": "Paul Hanaoka",
+    "username": "plhnk",
+    "alt": "Corredor oscuro de un centro de datos con racks iluminados a ambos lados"
+  },
+  {
+    "key": "dc-hall",
+    "unsplashId": "aWslrFhs1w4",
+    "photo": "1564457461758-8ff96e439e83",
+    "author": "Taylor Vick",
+    "username": "tvick",
+    "alt": "Sala técnica amplia con racks de servidores y suelo técnico blanco"
+  },
+  {
+    "key": "dc-aerial",
+    "unsplashId": "N9pLLb_M8DQ",
+    "photo": "1715026323215-a2dbb71272f6",
+    "author": "Geoffrey Moffett",
+    "username": "geoffreymoffett",
+    "alt": "Vista aérea de un edificio industrial rodeado de campos verdes"
+  },
+  {
+    "key": "dc-rack",
+    "unsplashId": "VHmBX7FnXw0",
+    "photo": "1762163516269-3c143e04175c",
+    "author": "Domaintechnik",
+    "username": "fslfsl",
+    "alt": "Detalle de servidores en rack con luces de estado verdes"
+  },
+  {
+    "key": "code-laptop",
+    "unsplashId": "mZnx9429i94",
+    "photo": "1619410283995-43d9134e7656",
+    "author": "Juanjo Jaramillo",
+    "username": "juanjodev02",
+    "alt": "Editor de código con un proyecto abierto en un portátil"
+  },
+  {
+    "key": "code-screen",
+    "unsplashId": "f77Bh3inUpE",
+    "photo": "1555066931-4365d14bab8c",
+    "author": "Arnold Francisca",
+    "username": "clark_fransa",
+    "alt": "Portátil con código fuente resaltado sobre un escritorio en penumbra"
+  },
+  {
+    "key": "code-desk",
+    "unsplashId": "6Dv3pe-JnSg",
+    "photo": "1573495627361-d9b87960b12d",
+    "author": "Christina @ wocintechchat.com",
+    "username": "wocintechchat",
+    "alt": "Puesto de desarrollo con varios monitores mostrando terminal y código"
+  },
+  {
+    "key": "engineer-monitor",
+    "unsplashId": "iQqRM0XJvn8",
+    "photo": "1580894912989-0bc892f4efd0",
+    "author": "ThisisEngineering",
+    "username": "thisisengineering",
+    "alt": "Ingeniera revisa código en un monitor de escritorio"
+  },
+  {
+    "key": "analytics-dashboard",
+    "unsplashId": "JKUTrJ4vK00",
+    "photo": "1551288049-bebda4e38f71",
+    "author": "Luke Chesser",
+    "username": "lukechesser",
+    "alt": "Panel analítico con histogramas y series temporales en un portátil"
+  },
+  {
+    "key": "analytics-panels",
+    "unsplashId": "qwtCeJ5cLYs",
+    "photo": "1526628953301-3e589a6a8b74",
+    "author": "Stephen Dawson",
+    "username": "dawson2406",
+    "alt": "Pantalla con indicadores y gráficos de rendimiento en tonos oscuros"
+  },
+  {
+    "key": "analytics-map",
+    "unsplashId": "_Jb1TF3kvsA",
+    "photo": "1584291527908-033f4d6542c8",
+    "author": "Clay Banks",
+    "username": "claybanks",
+    "alt": "Tablero de datos con un mapa y cifras agregadas en una pantalla"
+  },
+  {
+    "key": "analytics-laptop",
+    "unsplashId": "hpjSkU2UYSU",
+    "photo": "1460925895917-afdab827c52f",
+    "author": "Carlos Muza",
+    "username": "kmuza",
+    "alt": "Portátil con un tablero de métricas y gráficos de área"
+  },
+  {
+    "key": "security-circuit",
+    "unsplashId": "EUsVwEOsblE",
+    "photo": "1550751827-4bd374c3f58b",
+    "author": "Adi Goldstein",
+    "username": "adigold1",
+    "alt": "Circuito iluminado sobre una superficie de vidrio en penumbra"
+  },
+  {
+    "key": "security-rings",
+    "unsplashId": "WWlDskG5mY8",
+    "photo": "1757484965213-8393e82789fe",
+    "author": "Zoha Gohar",
+    "username": "zoeey97",
+    "alt": "Anillos de luz turquesa en una composición abstracta"
+  },
+  {
+    "key": "security-operator",
+    "unsplashId": "9SoCnyQmkzI",
+    "photo": "1510915228340-29c85a43dcfe",
+    "author": "Jefferson Santos",
+    "username": "jefflssantos",
+    "alt": "Analista trabaja frente a varias pantallas en una sala oscura"
+  },
+  {
+    "key": "network-fiber-panel",
+    "unsplashId": "eVWWr6nmDf8",
+    "photo": "1594915440248-1e419eba6611",
+    "author": "Kirill Sh",
+    "username": "kirill2020",
+    "alt": "Panel de conexiones de fibra óptica con cables amarillos y conectores verdes"
+  },
+  {
+    "key": "network-fiber",
+    "unsplashId": "8oR7XykOjk4",
+    "photo": "1702822903693-0a18874d881e",
+    "author": "Ronald Crow",
+    "username": "ronaldacrow",
+    "alt": "Detalle de conectores de fibra óptica en un distribuidor de red"
+  },
+  {
+    "key": "network-cables",
+    "unsplashId": "PSpf_XgOM5w",
+    "photo": "1683322499436-f4383dd59f5a",
+    "author": "Scott Rodgerson",
+    "username": "scottrodgerson",
+    "alt": "Cables de red azules ordenados en la parte trasera de un rack"
+  },
+  {
+    "key": "logistics-racks",
+    "unsplashId": "jcav1COVvOc",
+    "photo": "1627309366653-2dedc084cdf1",
+    "author": "Jacques Dillies",
+    "username": "jacques_dillies",
+    "alt": "Centro de distribución con estanterías altas y pasillos amplios"
+  },
+  {
+    "key": "logistics-aisle",
+    "unsplashId": "h3pVxOIpnzk",
+    "photo": "1644079446600-219068676743",
+    "author": "Lance Chang",
+    "username": "carmendis",
+    "alt": "Pasillo de almacén con estanterías llenas de cajas a ambos lados"
+  },
+  {
+    "key": "logistics-aerial",
+    "unsplashId": "eBLqAXNLVp0",
+    "photo": "1669003153363-6d7ba8e20c7e",
+    "author": "Point3D Commercial Imaging Ltd.",
+    "username": "3dottawa",
+    "alt": "Vista aérea de un gran centro logístico y su playa de maniobras"
+  },
+  {
+    "key": "logistics-team",
+    "unsplashId": "ZlOlRnWk8zU",
+    "photo": "1664382953403-fc1ac77073a0",
+    "author": "Centre for Ageing Better",
+    "username": "ageing_better",
+    "alt": "Dos trabajadoras conversan en un pasillo de almacén con tablet en mano"
+  },
+  {
+    "key": "factory-line",
+    "unsplashId": "sz1CHL7Pky0",
+    "photo": "1716191299980-a6e8827ba10b",
+    "author": "Homa Appliances",
+    "username": "homaappliances",
+    "alt": "Línea de ensamblaje automatizada con brazos robóticos"
+  },
+  {
+    "key": "factory-robot",
+    "unsplashId": "LSiJEJmfuaU",
+    "photo": "1543967708-2418d2e7748c",
+    "author": "patricio davalos",
+    "username": "patriciodavalos",
+    "alt": "Brazo robótico industrial blanco en una celda de producción"
+  },
+  {
+    "key": "factory-automation",
+    "unsplashId": "nyAzMQ6Ejgs",
+    "photo": "1581093803931-46e730e7622e",
+    "author": "ThisisEngineering",
+    "username": "thisisengineering",
+    "alt": "Equipo de automatización neumática en una línea de pruebas"
+  },
+  {
+    "key": "ai-robot-arm",
+    "unsplashId": "kE0JmtbvXxM",
+    "photo": "1655393001768-d946c97d6fd1",
+    "author": "ZHENYU LUO",
+    "username": "mrnuclear",
+    "alt": "Brazo robótico blanco en un entorno de laboratorio luminoso"
+  },
+  {
+    "key": "health-tablet",
+    "unsplashId": "Wz4Mx3JbnzE",
+    "photo": "1758691462667-f2fb90a067ff",
+    "author": "Vitaly Gariev",
+    "username": "silverkblack",
+    "alt": "Profesional de la salud revisa imágenes diagnósticas en una tablet"
+  },
+  {
+    "key": "health-ward",
+    "unsplashId": "3EIraOmufG4",
+    "photo": "1778151270902-cb0ca572f2ee",
+    "author": "Irshad Pathan",
+    "username": "alrighthospital",
+    "alt": "Habitación hospitalaria con cama y equipamiento de monitoreo"
+  },
+  {
+    "key": "finance-escalators",
+    "unsplashId": "-az9Mp5WAeE",
+    "photo": "1583154683839-2d49400c3d65",
+    "author": "Patrick Robert Doyle",
+    "username": "teapowered",
+    "alt": "Escaleras mecánicas bajo una bóveda de vidrio en un distrito financiero"
+  },
+  {
+    "key": "finance-towers",
+    "unsplashId": "Bu_jTIe9g-k",
+    "photo": "1771470475723-85c393e212f7",
+    "author": "LARAM",
+    "username": "lukearam",
+    "alt": "Torres de oficinas vistas desde abajo contra el cielo"
+  },
+  {
+    "key": "finance-skyward",
+    "unsplashId": "VviFtDJakYk",
+    "photo": "1449157291145-7efd050a4d0e",
+    "author": "Matthew Henry",
+    "username": "matthewhenry",
+    "alt": "Rascacielos que convergen hacia un cielo nublado"
+  },
+  {
+    "key": "retail-store",
+    "unsplashId": "lkDZJL5psKU",
+    "photo": "1771033834141-023d630b3965",
+    "author": "Zooey Li",
+    "username": "zooeyli",
+    "alt": "Tienda luminosa con mobiliario blanco y productos ordenados"
+  },
+  {
+    "key": "retail-hall",
+    "unsplashId": "Hafhe2KkG-E",
+    "photo": "1785741393025-d6b6ba1d1eee",
+    "author": "Declan Sun",
+    "username": "declansun",
+    "alt": "Espacio comercial con columnas metálicas y lucernario circular"
+  },
+  {
+    "key": "energy-plant",
+    "unsplashId": "6lOxktnqo04",
+    "photo": "1723640103357-cd8e8f0cd10c",
+    "author": "Arno Senoner",
+    "username": "arnosenoner",
+    "alt": "Aerogenerador junto a un campo solar y una planta de generación"
+  },
+  {
+    "key": "energy-wind",
+    "unsplashId": "Z1-Hmrh8Oj4",
+    "photo": "1598803040994-834a13691764",
+    "author": "Matthias Marx",
+    "username": "marxmatthias",
+    "alt": "Aerogenerador sobre campos agrícolas al atardecer"
+  },
+  {
+    "key": "telecom-antenna",
+    "unsplashId": "DgZxBnZeQo8",
+    "photo": "1511233744044-194342066754",
+    "author": "Tony Stoddard",
+    "username": "tonystoddard",
+    "alt": "Antenas de telecomunicaciones sobre una torre metálica"
+  },
+  {
+    "key": "telecom-tower",
+    "unsplashId": "_-PY-2WQl10",
+    "photo": "1721995656938-ddc26c0f5071",
+    "author": "Dena Skulskaya",
+    "username": "dena_skulskaya",
+    "alt": "Torre de telefonía con antenas contra un cielo azul intenso"
+  },
+  {
+    "key": "telecom-dusk",
+    "unsplashId": "0C9VmZUqcT8",
+    "photo": "1533664488202-6af66d26c44a",
+    "author": "Mario Caruso",
+    "username": "giggiulena",
+    "alt": "Siluetas de torres de transmisión al atardecer"
+  },
+  {
+    "key": "education-laptop",
+    "unsplashId": "tLG2hcpITZE",
+    "photo": "1543269865-0a740d43b90c",
+    "author": "Brooke Cagle",
+    "username": "brookecagle",
+    "alt": "Dos estudiantes trabajan juntas frente a un portátil"
+  },
+  {
+    "key": "education-class",
+    "unsplashId": "8gAbl776pc0",
+    "photo": "1758270705317-3ef6142d306f",
+    "author": "Vitaly Gariev",
+    "username": "silverkblack",
+    "alt": "Grupo de estudiantes reunidos alrededor de un portátil en un aula"
+  },
+  {
+    "key": "ai-red-arm",
+    "unsplashId": "zIIXVa5BwvM",
+    "photo": "1641311281574-98b9e7a76479",
+    "author": "Mathew Schwartz",
+    "username": "cadop",
+    "alt": "Brazo robótico rojo sobre fondo negro"
+  },
+  {
+    "key": "ai-hand",
+    "unsplashId": "jIBMSMs4_kA",
+    "photo": "1531746790731-6c087fecd65a",
+    "author": "Franck V.",
+    "username": "possessedphotography",
+    "alt": "Mano robótica blanca en primer plano"
+  },
+  {
+    "key": "ai-lab-arm",
+    "unsplashId": "xk9htrFBeAw",
+    "photo": "1635186646209-962eddb4d094",
+    "author": "Maria Teneva",
+    "username": "miteneva",
+    "alt": "Brazo robótico colaborativo manipulando piezas sobre una mesa"
+  },
+  {
+    "key": "city-night",
+    "unsplashId": "zd8v_Ig3ndg",
+    "photo": "1603793510575-a8cf24361baa",
+    "author": "Polina Kuzovkova",
+    "username": "p_kuzovkova",
+    "alt": "Rascacielos iluminados de una ciudad vista desde lo alto por la noche"
+  },
+  {
+    "key": "city-lights",
+    "unsplashId": "HN5Vf-aCD34",
+    "photo": "1496481995273-1ba7de6c24fd",
+    "author": "Graham Holtshausen",
+    "username": "freedomstudios",
+    "alt": "Vista aérea nocturna de un centro urbano con calles iluminadas"
+  },
+  {
+    "key": "meeting-notes",
+    "unsplashId": "KdeqA3aTnBY",
+    "photo": "1517048676732-d65bc937f952",
+    "author": "Dylan Gillis",
+    "username": "mainermedia",
+    "alt": "Manos de un equipo tomando notas en una mesa de reunión"
+  },
+  {
+    "key": "work-plan",
+    "unsplashId": "5fNmWej4tAA",
+    "photo": "1454165804606-c3d57bc86b40",
+    "author": "Scott Graham",
+    "username": "amstram",
+    "alt": "Persona que planifica con papel y bolígrafo junto a un portátil"
+  }
+]

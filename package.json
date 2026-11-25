@@ -10,7 +10,10 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "typecheck": "next typegen && tsc --noEmit",
-    "check": "pnpm typecheck && pnpm lint && pnpm format:check"
+    "check": "pnpm typecheck && pnpm lint && pnpm format:check",
+    "check:links": "node scripts/check-links.mjs",
+    "check:contrast": "node scripts/check-contrast.mjs",
+    "images": "node scripts/fetch-images.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.9.0",
