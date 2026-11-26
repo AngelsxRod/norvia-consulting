@@ -8,18 +8,18 @@ Sitio corporativo multipágina (exportación estática) para Norvia, consultora 
 
 ## Estado
 
-| Fase                            | Estado       |
-| ------------------------------- | ------------ |
-| 3 — Inicialización técnica      | ✅ Completa  |
-| 4 — Identidad de marca          | ✅ Completa  |
-| 5 — Arquitectura de información | ✅ Completa  |
-| 6 — Sistema de diseño           | ✅ Completa  |
-| 7 — Desarrollo frontend         | ✅ Completa  |
-| 8 — Optimización y QA           | ✅ Completa  |
-| 9 — GitHub                      | ✅ Completa  |
-| 10 — Despliegue (Vercel)        | ✅ Completa  |
-| 11 — Dominio (Cloudflare)       | ✅ Completa  |
-| 12 — Portafolio (kaled.dev)     | ⏳ Pendiente |
+| Fase                            | Estado      |
+| ------------------------------- | ----------- |
+| 3 — Inicialización técnica      | ✅ Completa |
+| 4 — Identidad de marca          | ✅ Completa |
+| 5 — Arquitectura de información | ✅ Completa |
+| 6 — Sistema de diseño           | ✅ Completa |
+| 7 — Desarrollo frontend         | ✅ Completa |
+| 8 — Optimización y QA           | ✅ Completa |
+| 9 — GitHub                      | ✅ Completa |
+| 10 — Despliegue (Vercel)        | ✅ Completa |
+| 11 — Dominio (Cloudflare)       | ✅ Completa |
+| 12 — Portafolio (kaled.dev)     | ✅ Completa |
 
 ## Bitácora
 
@@ -62,3 +62,22 @@ Sitio corporativo multipágina (exportación estática) para Norvia, consultora 
 - Cloudflare (zona `kaled.dev`): se comprobó que no existía ningún registro `norvia`. Se creó solo `CNAME norvia → 67b4b766321bf92e.vercel-dns-017.com`, TTL automático, **Solo DNS** (proxy desactivado). No se tocó ningún otro registro ni ajuste de la zona.
 - Vercel marca la configuración como válida (`misconfigured: false`). Certificado Let's Encrypt emitido para `norvia.kaled.dev` (válido hasta el 24/02/2027, renovación automática).
 - https://norvia.kaled.dev responde 200; HTTP redirige con 308 a HTTPS; rutas internas, imágenes, sitemap y robots verificados; sin errores de consola en Chrome.
+
+### Fase 12
+
+- Capturas reales del sitio publicado (Chrome headless, 1440×900 y 390×844) en `docs/screenshots/` (WebP, 33–97 KB).
+- Panel `kaled.dev/admin` (sesión iniciada por el propietario): Norvia no existía. Se creó el proyecto «Norvia Consulting» (slug `norvia-consulting`) con resumen, descripción en Markdown, demo y repositorio, tipo «Proyecto personal · sitio web corporativo», año 2026, rol, 14 tecnologías y 4 imágenes con texto alternativo (portada destacada). Posición 7: queda al final sin desplazar proyectos existentes. El panel no tiene campo de categoría. Estado: **Publicado**. No se modificó ningún otro registro.
+- Verificación pública: aparece en https://kaled.dev/es/projects y su ficha es https://kaled.dev/es/projects/norvia-consulting (imágenes, descripción, tecnologías, «Abrir sitio» → https://norvia.kaled.dev/ y «Ver código» → GitHub, ambos 200). Revisada en escritorio y móvil.
+
+### Lighthouse en producción (https://norvia.kaled.dev)
+
+| Página          | Dispositivo | Rendimiento | Accesibilidad | Buenas prácticas | SEO |
+| --------------- | ----------- | ----------- | ------------- | ---------------- | --- |
+| Inicio          | Escritorio  | 98          | 100           | 100              | 100 |
+| Inicio          | Móvil       | 96          | 100           | 100              | 100 |
+| Servicios       | Escritorio  | 100         | 100           | 100              | 100 |
+| Servicios       | Móvil       | 91          | 100           | 100              | 100 |
+| Detalle de caso | Escritorio  | 100         | 100           | 100              | 100 |
+| Detalle de caso | Móvil       | 87          | 100           | 100              | 100 |
+
+En móvil (emulación con red lenta), el LCP de las páginas interiores (3,3–3,4 s) corresponde a la fotografía de la cabecera.

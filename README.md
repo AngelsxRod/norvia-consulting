@@ -4,6 +4,9 @@
 
 - **Sitio:** https://norvia.kaled.dev
 - **Repositorio:** https://github.com/AngelsxRod/norvia-consulting
+- **Ficha en el portafolio:** https://kaled.dev/es/projects/norvia-consulting
+
+![Portada de Norvia Consulting](docs/screenshots/home-desktop.webp)
 
 > ⚠️ Norvia es una marca ficticia. Clientes, casos, cifras, integrantes del equipo y vacantes son ilustrativos; las métricas se identifican como datos simulados. Los formularios validan los datos en el navegador, pero no los envían ni los almacenan.
 
