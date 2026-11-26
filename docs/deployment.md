@@ -43,7 +43,13 @@ No se necesita `vercel.json`. Cada push a `main` genera un despliegue de producc
 2. Cloudflare, zona `kaled.dev` → _DNS → Records_: registro `CNAME` `norvia` con el destino exacto que indique Vercel, TTL automático y proxy **desactivado** («DNS only») para que Vercel emita y renueve el certificado TLS.
 3. Esperar a que Vercel marque _Valid Configuration_ y emita el certificado.
 
-El estado real de la configuración aplicada se registra en [`progress.md`](./progress.md).
+### Configuración aplicada
+
+| Registro | Tipo  | Destino                               | Proxy    | TTL        |
+| -------- | ----- | ------------------------------------- | -------- | ---------- |
+| `norvia` | CNAME | `67b4b766321bf92e.vercel-dns-017.com` | Solo DNS | Automático |
+
+Certificado TLS emitido por Vercel (Let's Encrypt) con renovación automática. HTTP redirige a HTTPS (308).
 
 ## Otros hostings estáticos
 

@@ -17,8 +17,8 @@ Sitio corporativo multipágina (exportación estática) para Norvia, consultora 
 | 7 — Desarrollo frontend         | ✅ Completa  |
 | 8 — Optimización y QA           | ✅ Completa  |
 | 9 — GitHub                      | ✅ Completa  |
-| 10 — Despliegue (Vercel)        | ⏳ Pendiente |
-| 11 — Dominio (Cloudflare)       | ⏳ Pendiente |
+| 10 — Despliegue (Vercel)        | ✅ Completa  |
+| 11 — Dominio (Cloudflare)       | ✅ Completa  |
 | 12 — Portafolio (kaled.dev)     | ⏳ Pendiente |
 
 ## Bitácora
@@ -50,7 +50,15 @@ Sitio corporativo multipágina (exportación estática) para Norvia, consultora 
 
 - 16 commits Conventional Commits publicados en `origin/main` sin force push ni reescritura. Revisión previa: sin secretos, `.env*`, `node_modules`, `.next`, `out` ni `.vercel` en el índice; archivo más grande 860 KB.
 
-### Fase 10 (en curso)
+### Fase 10
 
 - Proyecto Vercel `norvia-consulting` creado y conectado a `AngelsxRod/norvia-consulting` (rama de producción `main`, preset Next.js, `pnpm install --frozen-lockfile`, `pnpm build`, Node 26.x, plan Hobby).
 - Variable `NEXT_PUBLIC_SITE_URL=https://norvia.kaled.dev` (production, preview).
+- Primer despliegue de producción `READY` desde GitHub (`main`), URL del proveedor https://norvia-consulting.vercel.app. Todas las rutas probadas responden 200, compresión Brotli, 404 personalizada.
+
+### Fase 11
+
+- Vercel: dominio `norvia.kaled.dev` añadido al proyecto (sin verificación TXT requerida).
+- Cloudflare (zona `kaled.dev`): se comprobó que no existía ningún registro `norvia`. Se creó solo `CNAME norvia → 67b4b766321bf92e.vercel-dns-017.com`, TTL automático, **Solo DNS** (proxy desactivado). No se tocó ningún otro registro ni ajuste de la zona.
+- Vercel marca la configuración como válida (`misconfigured: false`). Certificado Let's Encrypt emitido para `norvia.kaled.dev` (válido hasta el 24/02/2027, renovación automática).
+- https://norvia.kaled.dev responde 200; HTTP redirige con 308 a HTTPS; rutas internas, imágenes, sitemap y robots verificados; sin errores de consola en Chrome.
